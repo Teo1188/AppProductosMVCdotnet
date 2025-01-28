@@ -70,7 +70,7 @@ C#: Lenguaje de programación principal del proyecto.
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/Teo1188/AppProductosMVCdotnet.git
 ```
 
 Abre el proyecto en un entorno compatible, como Visual Studio.
