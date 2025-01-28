@@ -79,9 +79,7 @@ Abre el proyecto en un entorno compatible, como Visual Studio.
 
 Selecciona la opción Ejecutar o presiona F5.
 
-Accede a la aplicación desde tu navegador en la ruta:
-
-https://localhost:<puerto>/Productos
+Accede a la aplicación desde tu navegador colocando la ruta local que genere el ID.
 
 **Nota Final**
 
