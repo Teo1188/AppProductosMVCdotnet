@@ -6,9 +6,11 @@ Este proyecto es un ejercicio de implementación de un CRUD (“Create, Read, Up
 
 La aplicación está diseñada para trabajar con una base de datos en memoria utilizando Microsoft Entity Framework Core, lo que facilita la persistencia de los datos durante la sesión de la aplicación.
 
+
 **_Funcionalidades_**
 
 El proyecto se desarrolla principalmente en la pestaña llamada Productos. Las funcionalidades principales son:
+
 
 **1. Agregar Productos**
 
@@ -26,6 +28,7 @@ _Categoría_
 
 Al enviar el formulario, el producto se almacena en la base de datos en memoria.
 
+
 **2. Visualizar Productos**
 
 Una tabla lista todos los productos agregados con sus respectivas propiedades:
@@ -40,6 +43,7 @@ _Precio_
 
 _Categoría_
 
+
 **3. Actualizar Productos**
 
 Cada producto en la tabla tiene un botón verde ("Editar") que permite actualizar sus propiedades.
@@ -48,11 +52,13 @@ Al hacer clic, se redirige a un formulario prellenado con los datos actuales del
 
 Una vez enviados los cambios, se actualizan los datos en la base de datos en memoria.
 
+
 **4. Eliminar Productos**
 
 Cada producto también tiene un botón rojo ("Eliminar") que permite borrar el producto.
 
 Al hacer clic, el producto es eliminado permanentemente de la base de datos en memoria.
+
 
 ## Tecnologías Utilizadas
 
